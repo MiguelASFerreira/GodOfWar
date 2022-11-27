@@ -3,7 +3,7 @@
 
 <h1>Projeto feito com as aulas do Codeboost ✍️ </h1>
 
-Link do [CodeBoost](https://www.youtube.com/@cursocodeboost)
+Link do Youtuber [CodeBoost](https://www.youtube.com/@cursocodeboost)
 
 ### Linguagens:
 * HTML

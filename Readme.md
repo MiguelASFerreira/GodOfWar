@@ -11,6 +11,6 @@ Link do Youtuber [CodeBoost](https://www.youtube.com/@cursocodeboost)
 * SASS
 * JS
 
-### Ferramntas do JavaScript: 
+### Ferramentas do JavaScript: 
 * [Swipper](https://swiperjs.com/) - Ultilizado para fazer os Slides
 * [AOS](https://michalsnik.github.io/aos/) - Utilizado para fazer as animaçôes
